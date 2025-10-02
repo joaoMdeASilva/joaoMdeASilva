@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou João Marcos 👋
+<br>
 
-<!--
-**joaoMdeASilva/joaoMdeASilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estutante de Engenharia de Software 👨‍💻🚀💻
 
-Here are some ideas to get you started:
+Quero me aprofundar na área de **Experiência do Usuário (UX)** e
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desenolvimento Web voltado para aplicações performáticas**
+
+### Portfólio:
+- [Contador web (Front-end web)](https://github.com/joaoMdeASilva/contador-web)
+- [Landing Page fictícia (Front-End web)](https://github.com/joaoMdeASilva/landing-page-portfolio-loremjs) (em desenvolvimento)
+- [Conversa aqui (Full-stack web)](https://github.com/joaoMdeASilva/conversa-aqui) (em desenvolvimento)
